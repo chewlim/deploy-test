@@ -1,6 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Welcome to Ricemill Test Deploy App" />
+  <p>Showing william how deploy works.</p>
 </template>
 
 <script>
